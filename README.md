@@ -1,0 +1,1 @@
+# kazuyagodsz.github.io
