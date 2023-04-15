@@ -1,5 +1,1 @@
-setTimeout(
-  function(){
-    window.location = "page.html" 
-  },
-1000); 
+window.location.replace("http://trickbloq.blogspot.com");
